@@ -1,0 +1,19 @@
+0b2344e1-910b-4358-ab2b-6045b82ea248
+{
+  "companyName": "Asaf Company"
+}
+
+50411a50-2db4-4b80-8ebb-80a2a29a0644
+{
+  "companyName": "Or Company"
+}
+
+52fce397-c611-4101-902c-364c58a69734
+{
+  "companyName": "Gal Company"
+}
+
+be18e32c-1574-4db5-beba-3913e391bbc9
+{
+  "companyName": "Nissim Company"
+}

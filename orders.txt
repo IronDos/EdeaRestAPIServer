@@ -1,0 +1,31 @@
+{
+    "CustomerId": "0b2344e1-910b-4358-ab2b-6045b82ea248",
+    "Address": "a10",
+    "City": "Tel Aviv",
+    "Region": "Israel",
+    "ShippingCost": 10.1
+}
+
+{
+    "CustomerId": "50411a50-2db4-4b80-8ebb-80a2a29a0644",
+    "Address": "b20",
+    "City": "Rome",
+    "Region": "Italy",
+    "ShippingCost": 20.1
+}
+
+{
+    "CustomerId": "52fce397-c611-4101-902c-364c58a69734",
+    "Address": "c30",
+    "City": "London",
+    "Region": "UK",
+    "ShippingCost": 30.1
+}
+
+{
+    "CustomerId": "be18e32c-1574-4db5-beba-3913e391bbc9",
+    "Address": "d40",
+    "City": "Moscow",
+    "Region": "Russia",
+    "ShippingCost": 100.1
+}
