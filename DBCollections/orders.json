@@ -1,0 +1,50 @@
+[{
+  "_id": "67173bc3-a779-4654-80f0-f5a9c26a61ba",
+  "CustomerId": "0b2344e1-910b-4358-ab2b-6045b82ea248",
+  "Address": "a10",
+  "City": "Tel Aviv",
+  "Region": "Israel",
+  "ShippingCost": 10.1
+},{
+  "_id": "bf80655c-84e3-4996-be3a-d750b988d055",
+  "CustomerId": "50411a50-2db4-4b80-8ebb-80a2a29a0644",
+  "Address": "b20",
+  "City": "Rome",
+  "Region": "Italy",
+  "ShippingCost": 20.1
+},{
+  "_id": "f9b0fc10-d420-4f65-a56c-75bdf2438ed6",
+  "CustomerId": "52fce397-c611-4101-902c-364c58a69734",
+  "Address": "c30",
+  "City": "London",
+  "Region": "UK",
+  "ShippingCost": 30.1
+},{
+  "_id": "3b24798c-eaf8-4bc2-bf0e-a24122c34364",
+  "CustomerId": "be18e32c-1574-4db5-beba-3913e391bbc9",
+  "Address": "d40",
+  "City": "Moscow",
+  "Region": "Russia",
+  "ShippingCost": 100.1
+},{
+  "_id": "5855276b-03a1-4cb5-9e7a-0f60801e7d02",
+  "CustomerId": "d5bcfb03-d134-417c-9fd2-e2c937c199d5",
+  "Address": "e40",
+  "City": "Paris",
+  "Region": "France",
+  "ShippingCost": 200.37
+},{
+  "_id": "997cdb6b-e1e0-4021-aabc-06252db4ccb3",
+  "CustomerId": "aa1825f5-bd2d-4ff7-bdb4-96241910377a",
+  "Address": "f50",
+  "City": "New York",
+  "Region": "USA",
+  "ShippingCost": 20.7
+},{
+  "_id": "cbce1134-0d72-41a5-aeb7-8e97fa728a62",
+  "CustomerId": "46f5771c-5dbe-4f13-8686-501a713c3aeb",
+  "Address": "g60",
+  "City": "Madrid",
+  "Region": "Spain",
+  "ShippingCost": 72.65
+}]
